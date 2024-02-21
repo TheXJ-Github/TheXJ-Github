@@ -1,5 +1,4 @@
-### Hi there 👋
-
+Future me, fill this out
 <!--
 **TheXJ-Github/TheXJ-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
