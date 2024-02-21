@@ -1,4 +1,4 @@
-Future me, fill this out
+Future me, fill this with some statuses you'll probably never update
 <!--
 **TheXJ-Github/TheXJ-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
