@@ -1,6 +1,13 @@
 I do a lot of stuff related to coding
 
-My main interest so far is GDI Malware
+begin stats i dont care about<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheXJ-Github&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheXJ-Github&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a><br>
+end stats i dont care about
 
 <!--
 **TheXJ-Github/TheXJ-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
